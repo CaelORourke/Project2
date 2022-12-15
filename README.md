@@ -2,7 +2,7 @@
 1. Clone this repo. It contains:
 
      * a .gitignore file for Python.
-     * a requirements.txt to tell Heroku what your libraries your app needs.
+     * a requirements.txt to tell Heroku what libraries your app needs.
      * a Procfile to tell how Heroku how to run your app.
 
 2. Create an .env file and add your database settings to it:
